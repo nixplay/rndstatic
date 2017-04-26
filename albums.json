@@ -1,0 +1,82 @@
+{
+  "albums": [
+    {
+      "album_type": "Web",
+      "allow_delete": true,
+      "allow_delete_pictures": true,
+      "allow_reorder": true,
+      "allow_upload": true,
+      "cover_urls": [],
+      "dateCreated": "18/Apr/2017",
+      "email": "",
+      "id": 14857,
+      "is_updated": false,
+      "pending_album_id": null,
+      "photo_count": 60,
+      "picture_storage_type": "stored",
+      "published": true,
+      "thumbs": [
+        {
+          "orientation": 1,
+          "rotation": 0,
+          "src": "https://nixplay-rnd-thumbnail.s3.amazonaws.com/2018/2018_361d4eb0f961f7dd6cf86dde5b2ce78f.jpg?Signature=jA9YXpLgG22vkkZnEmCA2vErvn8%3D&Expires=1493200800&AWSAccessKeyId=AKIAIDQQLEZE235GX5QQ&response-expires=Wed%2C%2026%20Apr%202017%2010%3A00%3A00%20GMT&response-cache-control=max-age%3D86400"
+        },
+        {
+          "orientation": 1,
+          "rotation": 0,
+          "src": "https://nixplay-rnd-thumbnail.s3.amazonaws.com/2018/2018_c371e7ebdcb7d39f4f512c8e445d5344.jpg?Signature=yL%2Btq6OHulOrqrajDDyoJYge5ec%3D&Expires=1493200800&AWSAccessKeyId=AKIAIDQQLEZE235GX5QQ&response-expires=Wed%2C%2026%20Apr%202017%2010%3A00%3A00%20GMT&response-cache-control=max-age%3D86400"
+        },
+        {
+          "orientation": 1,
+          "rotation": 0,
+          "src": "https://nixplay-rnd-thumbnail.s3.amazonaws.com/2018/2018_fb7a6e0d889f5ef2a5393628794f12e1.jpg?Signature=EVLrvd%2BxZOP%2BTHvbmrHbsfbHH54%3D&Expires=1493200800&AWSAccessKeyId=AKIAIDQQLEZE235GX5QQ&response-expires=Wed%2C%2026%20Apr%202017%2010%3A00%3A00%20GMT&response-cache-control=max-age%3D86400"
+        },
+        {
+          "orientation": 1,
+          "rotation": 0,
+          "src": "https://nixplay-rnd-thumbnail.s3.amazonaws.com/2018/2018_7b31a50bb7f6ce5b4ee8615bb43115f1.jpg?Signature=hbGwFQEqn7U2m7jXyV2Liu%2Bxeic%3D&Expires=1493200800&AWSAccessKeyId=AKIAIDQQLEZE235GX5QQ&response-expires=Wed%2C%2026%20Apr%202017%2010%3A00%3A00%20GMT&response-cache-control=max-age%3D86400"
+        }
+      ],
+      "title": "1000"
+    },
+    {
+      "album_type": "Web",
+      "allow_delete": true,
+      "allow_delete_pictures": true,
+      "allow_reorder": true,
+      "allow_upload": true,
+      "cover_urls": [],
+      "dateCreated": "26/Apr/2017",
+      "email": "",
+      "id": 14867,
+      "is_updated": false,
+      "pending_album_id": null,
+      "photo_count": 39,
+      "picture_storage_type": "stored",
+      "published": true,
+      "thumbs": [
+        {
+          "orientation": 1,
+          "rotation": 0,
+          "src": "https://nixplay-rnd-thumbnail.s3.amazonaws.com/2018/2018_a2e9893b9a45dd41747c90b0dab6f185.jpg?Signature=VkzOScSLfCZm%2F0XhG8wGIX4D7eg%3D&Expires=1493200800&AWSAccessKeyId=AKIAIDQQLEZE235GX5QQ&response-expires=Wed%2C%2026%20Apr%202017%2010%3A00%3A00%20GMT&response-cache-control=max-age%3D86400"
+        },
+        {
+          "orientation": 1,
+          "rotation": 0,
+          "src": "https://nixplay-rnd-thumbnail.s3.amazonaws.com/2018/2018_a20c2a20cab77926e95c57c57c0c60cb.jpg?Signature=g%2BKyBZD61YOafjmsDnJbAD2vwW4%3D&Expires=1493200800&AWSAccessKeyId=AKIAIDQQLEZE235GX5QQ&response-expires=Wed%2C%2026%20Apr%202017%2010%3A00%3A00%20GMT&response-cache-control=max-age%3D86400"
+        },
+        {
+          "orientation": 1,
+          "rotation": 0,
+          "src": "https://nixplay-rnd-thumbnail.s3.amazonaws.com/2018/2018_21788f85d2ad59cee45e351d88272d84.jpg?Signature=SabSosDnTALFRQu1S81H6xdKQ8w%3D&Expires=1493200800&AWSAccessKeyId=AKIAIDQQLEZE235GX5QQ&response-expires=Wed%2C%2026%20Apr%202017%2010%3A00%3A00%20GMT&response-cache-control=max-age%3D86400"
+        },
+        {
+          "orientation": 1,
+          "rotation": 0,
+          "src": "https://nixplay-rnd-thumbnail.s3.amazonaws.com/2018/2018_05abd81bf54f2d7ed64bee1313afa245.jpg?Signature=zqs53ozv2zzkJqJuoakFQkFDEA8%3D&Expires=1493200800&AWSAccessKeyId=AKIAIDQQLEZE235GX5QQ&response-expires=Wed%2C%2026%20Apr%202017%2010%3A00%3A00%20GMT&response-cache-control=max-age%3D86400"
+        }
+      ],
+      "title": "album1"
+    }
+  ]
+}
